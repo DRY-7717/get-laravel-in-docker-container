@@ -1,0 +1,13 @@
+services:
+  app:
+    container_name: get_laravel_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    tty: true
+    volumes:
+      - .:/var/www
+# ** untuk memindahkan semua file didalam folder laravelnya menjadi diluar
+# ** docker cp get_laravel_container:/var/www/example-app/. .
+
