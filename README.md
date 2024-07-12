@@ -37,7 +37,7 @@ Wokkeh, lanjut teman-teman bisa jalankan perintah ini untuk masuk kedalam contai
 ```bash
   docker-compose exec app bash
 ```
-Lanjut untuk menginstall laravelnya, jalankan perintah ini,Disini saya menggunakan laravel versi 10,disini saya menggunakan laravel versi 10:
+Lanjut untuk menginstall laravelnya, jalankan perintah ini,disini saya menggunakan laravel versi 10:
 
 ```bash
   composer create-project laravel/laravel:^10.0 example-app
@@ -60,5 +60,5 @@ Wokkeeh proses semua sudah selesai dan aplikasi laravel kalian sudah terinstall.
 
 ## Pemberitahuan
 
-Cara ini digunakan buat teman-teman yang tidak ingin menginstall php atau composer di laptop atau pc kalian ya!, tapi kalau sudah ada xampp atau laragon atau sudah install composer di laptop kalian,cukup gunakan itu saja, WOKKKEEEHHHH!!!!!!!
+Cara ini digunakan buat teman-teman yang tidak ingin menginstall php atau composer di laptop atau pc kalian ya!, tapi kalau sudah ada xampp atau laragon atau sudah install composer di laptop kalian,cukup gunakan itu saja, Mohon maaf kalau ada kesalah pada repository ini. Kalau teman-teman ingin memberi masukan repository ini bisa ajukan issue aja ya! Terima kasih. WOKKKEEEEHHHHHHH!!!!!!!!!
 
